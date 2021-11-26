@@ -1,0 +1,10 @@
+settings: {
+	keywords": {
+        "yes": [],
+        "no": [],
+    },
+    "users": {
+        "yes": [],
+        "no": [],
+    },
+}
